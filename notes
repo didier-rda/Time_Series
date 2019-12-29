@@ -1,0 +1,14 @@
+Series in pandas
+- hold a array of information
+organized an index
+
+Numpy:
+
+index || Data
+0        1435
+1        1325
+
+
+index || Named Index || Data
+0        NY             1435
+1        LA             1325
